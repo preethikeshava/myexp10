@@ -5,11 +5,11 @@
     
     <modelVersion>4.0.0</modelVersion>
   
-    <groupId>com.example</groupId>
-    <artifactId>myapp</artifactId>
+    <groupId>com.mvit</groupId>
+    <artifactId>amazon-app</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>myapp</name>
+    <name>amazon-app</name>
     <url>http://maven.apache.org</url>
   
     <dependencies> 
@@ -42,7 +42,7 @@
                     <archive> 
                         <manifest> 
                             <addClasspath>true</addClasspath> 
-                            <mainClass>com.example.App</mainClass> 
+                            <mainClass>com.mvit.App</mainClass> 
                         </manifest> 
                     </archive> 
                 </configuration> 
